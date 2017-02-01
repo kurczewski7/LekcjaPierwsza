@@ -2,6 +2,7 @@
   <component name="PrintSettings">
     <option name="printScope" value="2" />
     <option name="COLOR_PRINTING" value="true" />
+    <option name="PORTRAIT_LAYOUT" value="false" />
     <option name="FONT_SIZE" value="12" />
     <option name="TOP_MARGIN" value="0.2" />
     <option name="BOTTOM_MARGIN" value="0.2" />
