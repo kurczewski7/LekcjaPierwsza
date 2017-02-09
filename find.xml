@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'laboratorium-3-kurczewski7'" />
     <option name="defaultScopeName" value="Project 'laboratorium-3-kurczewski7'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'laboratorium-3-kurczewski7'" />
   </component>
 </application>
