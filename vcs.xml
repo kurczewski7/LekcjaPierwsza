@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/nouveu/android_dialog_example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AndroidPWR/laboratorium-8-kurczewski7.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Slawek\AndroidStudioProjects" />
