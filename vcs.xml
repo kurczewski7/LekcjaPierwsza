@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/nouveu/Laboratorium7.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nouveu/Laboratorium9.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Slawek\AndroidStudioProjects" />
